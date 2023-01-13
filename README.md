@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @p4stafarian
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
-- 📫 How to reach me - discord: Pastafarian#3775
+- 📫 How to reach me - discord: Pastafarian#7966
 
 <!---
 p4stafarian/p4stafarian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
